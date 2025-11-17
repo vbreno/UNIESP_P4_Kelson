@@ -7,6 +7,7 @@
 - Conceitos básicos de HTML/CSS/Javascript;
 - Introduzir ao React trabalhando com componentes, JSX, funções, imagens públicas e em src, Hooks, useState e renderização de listas; Props, list render, fragmentos; Prop children, as function, state lift.
 
+#
 
 >**Tecnologias utilizadas:**
  
