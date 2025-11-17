@@ -1,4 +1,4 @@
->*#Repositório destinado ao registro das aulas de Frontend Avançado na Uniesp com o Professor Kelson Victor.*
+>***Repositório destinado ao registro das aulas de Frontend Avançado na Uniesp com o Professor Kelson Victor.***
 
 
 >**A matéria de Front-end Avançado tem como proposta um projeto prático alinhado com o da disciplina de Back-end (Integração da API com o nosso front) e rever/praticar:**
