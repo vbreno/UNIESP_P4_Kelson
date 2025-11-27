@@ -13,5 +13,7 @@
  
  - HTML;
  - CSS;
+ - NodeJS;
+ - Bootstrap;
  - Javascript;
  - React.
